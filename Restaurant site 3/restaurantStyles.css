@@ -1,0 +1,29 @@
+header {
+	font-family: 'Comic Sans MS';
+	background-color: LightGray;
+	color: AliceBLue;
+	text-align: center;	
+}
+footer {
+	
+	position: absolute;
+	width: 100%;
+/*	padding: 1rem; */
+	background-color: AliceBLue;
+	color: LightSteelBlue;
+	text-align: center;
+	overflow: auto;
+	
+}
+a:link{
+	color:red;
+}
+a:visited{
+	color:green;
+}
+a:hover {
+	font-weight:bold;
+}
+a:active (
+	text-decoration: none;
+)
